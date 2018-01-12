@@ -9,6 +9,7 @@
 *.bck
 *.kicad_pcb-bak
 _saved*.sch
+*-cache.lib
 *~
 _autosave-*
 *.tmp

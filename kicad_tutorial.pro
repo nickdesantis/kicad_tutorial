@@ -1,4 +1,4 @@
-update=Friday, January 12, 2018 'amt' 12:31:59 am
+update=Friday, January 12, 2018 'pmt' 01:24:30 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=amp_tut
+LibName30=lib_sch/amp_tut

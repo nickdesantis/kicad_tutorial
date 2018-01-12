@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 3_5mmStereoJack
+#
+DEF 3_5mmStereoJack J 0 40 Y Y 1 F N
+F0 "J" -100 200 60 H V C CNN
+F1 "3_5mmStereoJack" -50 -200 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S 0 150 -200 -150 0 1 0 N
+X GND 1 200 -100 200 L 50 50 1 1 P
+X L 2 200 0 200 L 50 50 1 1 B
+X R 3 200 100 200 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# BatterySolderPads
+#
+DEF ~BatterySolderPads J 0 40 Y Y 1 F N
+F0 "J" 0 200 60 H V C CNN
+F1 "BatterySolderPads" -50 -200 60 H I C CNN
+F2 "" -100 0 60 V I C CNN
+F3 "" -100 0 60 V I C CNN
+DRAW
+S 0 150 -250 -150 0 1 0 N
+X VBAT 1 200 50 200 L 50 50 1 1 w
+X GND 2 200 -50 200 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,5 +1,6 @@
 # PCB Tutorial
 This repo is to support a tutorial in which we'll learn how to make our own printed circuit boards (PCBs) with Kicad by laying out a simple audio amplifier.
+![](/render.png?raw=true)
 
 ## Goals
 While we'll be using Kicad, all of the skills we'll be learning are transferrable to other EDA packages:
